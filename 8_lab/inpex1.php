@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form action="" method="post">
+<form action="vivod.php" method="post" enctype="multipart/form-data">
     <br>
 
     <label for="name"> Имя: </label>
